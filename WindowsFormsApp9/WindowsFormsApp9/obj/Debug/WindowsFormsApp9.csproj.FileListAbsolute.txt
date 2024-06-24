@@ -1,0 +1,47 @@
+G:\PROJECTS\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+G:\PROJECTS\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+G:\PROJECTS\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+G:\PROJECTS\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.AssemblyReference.cache
+G:\PROJECTS\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.LoginForm.resources
+G:\PROJECTS\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+G:\PROJECTS\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+G:\PROJECTS\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+G:\PROJECTS\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+G:\PROJECTS\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+G:\PROJECTS\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+G:\PROJECTS\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Naem_sot.resources
+G:\PROJECTS\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Obuch_sot.resources
+G:\PROJECTS\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Plan_sot.resources
+G:\PROJECTS\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Test.resources
+G:\PROJECTS\WindowsFormsApp9 — копия\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+G:\PROJECTS\WindowsFormsApp9 — копия\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+G:\PROJECTS\WindowsFormsApp9 — копия\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+G:\PROJECTS\WindowsFormsApp9 — копия\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.AssemblyReference.cache
+G:\PROJECTS\WindowsFormsApp9 — копия\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+G:\PROJECTS\WindowsFormsApp9 — копия\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.LoginForm.resources
+G:\PROJECTS\WindowsFormsApp9 — копия\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Naem_sot.resources
+G:\PROJECTS\WindowsFormsApp9 — копия\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Obuch_sot.resources
+G:\PROJECTS\WindowsFormsApp9 — копия\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Plan_sot.resources
+G:\PROJECTS\WindowsFormsApp9 — копия\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+G:\PROJECTS\WindowsFormsApp9 — копия\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Test.resources
+G:\PROJECTS\WindowsFormsApp9 — копия\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+G:\PROJECTS\WindowsFormsApp9 — копия\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+G:\PROJECTS\WindowsFormsApp9 — копия\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+G:\PROJECTS\WindowsFormsApp9 — копия\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+G:\PROJECTS\WindowsFormsApp9 — копия\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Forsotr.resources
+C:\Users\atdnzkis\Desktop\WindowsFormsApp9 - v2\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\atdnzkis\Desktop\WindowsFormsApp9 - v2\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\atdnzkis\Desktop\WindowsFormsApp9 - v2\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\atdnzkis\Desktop\WindowsFormsApp9 - v2\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.AssemblyReference.cache
+C:\Users\atdnzkis\Desktop\WindowsFormsApp9 - v2\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\atdnzkis\Desktop\WindowsFormsApp9 - v2\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Forsotr.resources
+C:\Users\atdnzkis\Desktop\WindowsFormsApp9 - v2\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.LoginForm.resources
+C:\Users\atdnzkis\Desktop\WindowsFormsApp9 - v2\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Naem_sot.resources
+C:\Users\atdnzkis\Desktop\WindowsFormsApp9 - v2\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Obuch_sot.resources
+C:\Users\atdnzkis\Desktop\WindowsFormsApp9 - v2\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Plan_sot.resources
+C:\Users\atdnzkis\Desktop\WindowsFormsApp9 - v2\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\atdnzkis\Desktop\WindowsFormsApp9 - v2\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Test.resources
+C:\Users\atdnzkis\Desktop\WindowsFormsApp9 - v2\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\atdnzkis\Desktop\WindowsFormsApp9 - v2\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\atdnzkis\Desktop\WindowsFormsApp9 - v2\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\atdnzkis\Desktop\WindowsFormsApp9 - v2\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
